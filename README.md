@@ -1,5 +1,4 @@
 # Crossword-Puzzle-Game
-# Crossword Puzzle Loader and Solver
 
 ## Overview
 This project introduces a Python-based tool designed to load, interact with, and solve crossword puzzles stored in CSV files. It aims to assist crossword enthusiasts in solving puzzles through automated hints and solutions, while also providing functionalities for manually entering guesses and checking for errors. The tool's interface is built to be intuitive, leveraging command-line interactions for a seamless user experience. It allows users to load puzzles, make guesses, reveal answers, and track their progress towards solving the puzzle.
